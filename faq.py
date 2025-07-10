@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
+
 def faq_hyundai():
     '''
     현대 홈페이지에서 나온 FAQ들을 크롤링해 반환.
