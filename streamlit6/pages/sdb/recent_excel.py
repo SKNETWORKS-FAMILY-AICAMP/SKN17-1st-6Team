@@ -1,9 +1,12 @@
+# import sys
+# import os
+# sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 # pip install pandas openpyxl 해줘야됨
 import pandas as pd
 
 def kia_recent():
-    excel_path = 'kia2024.xlsx'
-    excel2 = 'kia2025.xlsx'
+    excel_path = 'pages/kia2024.xlsx'
+    excel2 = 'pages/kia2025.xlsx'
     df = pd.read_excel(excel_path, engine='openpyxl', header=None)
     df2 = pd.read_excel(excel2, engine='openpyxl', header=None)
 
@@ -34,8 +37,8 @@ def kia_recent():
     return merge_list
 
 def hyundai_recent():
-    excel_path = 'hyundai2024.xlsx'
-    excel2 = 'hyundai2025.xlsx'
+    excel_path = 'pages/hyundai2024.xlsx'
+    excel2 = 'pages/hyundai2025.xlsx'
     df = pd.read_excel(excel_path, engine='openpyxl', header=None)
     df2 = pd.read_excel(excel2, engine='openpyxl', header=None)
 

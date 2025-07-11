@@ -12,7 +12,7 @@ import mysql.connector
 st.subheader("📉한눈에 알아보는 국내 자동차 시장 점유율") 
 
 # data
-df = pd.read_csv('C:/Users/mjs/Documents/GitHub/SKN17_project_1/sixth_sense/prog_languages_data.csv')
+# df = pd.read_csv('C:/Users/mjs/Documents/GitHub/SKN17-1st-6Team/prog_languages_data.csv')
 
 
 # pie chart 1 - 2020
@@ -68,10 +68,10 @@ st.header("")
 
 
 # 뉴스 헤드라인 이미지 삽입
-img_url1 = "C:/Users/mjs/Documents/GitHub/SKN17_project_1/news_img.png"
+img_url1 = "C:/Users/mjs/Documents/GitHub/SKN17-1st-6Team/img/news_img.png"
 news_link1 = "https://zdnet.co.kr/view/?no=20250103171650"
 
-img_url2 = "C:/Users/mjs/Documents/GitHub/SKN17_project_1/news_img2.png"
+img_url2 = "C:/Users/mjs/Documents/GitHub/SKN17-1st-6Team/img/news_img2.png"
 news_link2 = "https://news.einfomax.co.kr/news/articleView.html?idxno=4362946"
 
 col1, col2 = st.columns(2)

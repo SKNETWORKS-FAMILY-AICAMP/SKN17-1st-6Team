@@ -19,7 +19,7 @@ with kia_tab:
     st.subheader("KIA 자주 묻는 질문💬")
 
     faq_data = []
-    with open("faq_kia.csv", 'r', encoding="utf-8") as f:
+    with open("C:/Users/mjs/Documents/GitHub/SKN17-1st-6Team/faq/faq_kia.csv", 'r', encoding="utf-8") as f:
         for line in f:
             parts = line.strip().split('|')
             if len(parts) >= 2:
@@ -60,7 +60,7 @@ with kia_tab:
 # 현대자동차 탭
 with hd_tab:
     faq_data = []
-    with open("faq_hyundai.csv", 'r', encoding="utf-8") as f:
+    with open("C:/Users/mjs/Documents/GitHub/SKN17-1st-6Team/faq/faq_hyundai.csv", 'r', encoding="utf-8") as f:
         for line in f:
             parts = line.strip().split('|')
             if len(parts) >= 2:
