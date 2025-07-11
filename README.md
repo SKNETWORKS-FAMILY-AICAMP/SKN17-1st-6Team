@@ -40,6 +40,8 @@
 # ERD
 
 ---
+<img width="543" height="369" alt="image" src="https://github.com/user-attachments/assets/a5c90898-199f-46ec-8603-18799e146c47" />
+
 
 ![image.png](attachment:d43475c8-bdfe-4ffa-b25a-e2b7b97b492d:image.png)
 
