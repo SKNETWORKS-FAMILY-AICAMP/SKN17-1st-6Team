@@ -7,7 +7,7 @@
 
 | 신승철 | 김주영 | 양송이 | 김수현 | 맹지수 |
 | --- | --- | --- | --- | --- |
-| <img height=300 width=300 src=https://github.com/user-attachments/assets/6b5dc0be-1185-4e62-9217-21903cf5f18a> | <img height=300 width=300 src=https://github.com/user-attachments/assets/2e0f6a76-8aaf-4d2c-bb09-9dd9ebe7fe2c> | <img height=350 width=350 src=https://github.com/user-attachments/assets/bde15f88-13a6-48a2-9564-9b8bac02114b> | <img height=400 width=400 src=https://github.com/user-attachments/assets/4ef9341c-3e0b-4980-8195-d3aeec930dfe> | <img height=300 width=300 src=https://github.com/user-attachments/assets/94222fba-384e-4b42-8713-7b4eabf3aa33> |
+| <img height=300 width=300 src=https://github.com/user-attachments/assets/6b5dc0be-1185-4e62-9217-21903cf5f18a> | <img height=300 width=300 src=https://github.com/user-attachments/assets/2e0f6a76-8aaf-4d2c-bb09-9dd9ebe7fe2c> | <img height=350 width=350 src=https://github.com/user-attachments/assets/bde15f88-13a6-48a2-9564-9b8bac02114b> | <img height=500 width=500 src=https://github.com/user-attachments/assets/4ef9341c-3e0b-4980-8195-d3aeec930dfe> | <img height=300 width=300 src=https://github.com/user-attachments/assets/94222fba-384e-4b42-8713-7b4eabf3aa33> |
 | [@ssshinnpson](https://github.com/ssshinnpson) | [@samkim7788](https://github.com/samkim7788) | [@songeeeey](https://github.com/songeeeey) | [@K-SH98](https://github.com/K-SH98) | [@happyfrogg](https://github.com/happyfrogg) |
 <br/>
 
