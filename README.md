@@ -85,13 +85,13 @@ discord, notion, ~~git~~, ~~github~~
 
 ---
 
-<img width="1600" height="800" alt="Image" src="https://github.com/user-attachments/assets/53bc288a-9a81-4aa9-a389-e061b4184024" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/53bc288a-9a81-4aa9-a389-e061b4184024" />
 
 # 요구사항 명세서
 
 ---
 
-<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/5a59ead2-6d90-40cd-b1df-f0ccba4925e0" />
+<img width="1600" height="1400" alt="Image" src="https://github.com/user-attachments/assets/5a59ead2-6d90-40cd-b1df-f0ccba4925e0" />
 
 # ERD
 
@@ -105,31 +105,31 @@ discord, notion, ~~git~~, ~~github~~
 
 ## 1. 메인 페이지
 
-![image.png](attachment:b0959478-bab4-4080-b328-8a605d1bf9b8:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095146840522852/1-1.png?ex=6871ec75&is=68709af5&hm=53d7917702e594511671df4a112108fa875b2df525872538eef6636004bf2a5e&"/>
 
 ## 2. 차트 페이지
 
-![image.png](attachment:4221bef6-c0aa-468c-b663-ee881fc9a8f6:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095160065163296/2-1.png?ex=6871ec78&is=68709af8&hm=2a48f4e8cd30034a4675d9e1a239883bf053c132fe4e93e0b1e47a470c12372f&"/>
 
-![image.png](attachment:342be7e0-8942-44ae-8362-ba6b61b79ba5:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095172467986503/2-2.png?ex=6871ec7b&is=68709afb&hm=9cf327845b48039eeca15f151e71ef0e6aa1ad9703b4c911a3d74e3da3a74606&"/>
 
-![image.png](attachment:d0d53f40-ee40-45ca-b4a6-2024a7c7d872:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095189698187354/2-3.png?ex=6871ec7f&is=68709aff&hm=c994499a4ba1ad9448153fe6ecabbf052666eba0734528ea9a0a53388cefa347&"/>
 
 ## 3. 순위 페이지
 
-![image.png](attachment:2def6042-bc42-4dc3-aed5-24b9dfcccfb1:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095205883875348/3-1.png?ex=6871ec83&is=68709b03&hm=6b7db08edb5ec2229b85f86aa582544fcf6aa7bbdf675efee0f6d9399955b899&"/>
 
-![image.png](attachment:d20812c3-313a-4b11-8080-61cc26f73861:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095220878639216/3-2.png?ex=6871ec87&is=68709b07&hm=d674e9f8452dcd635b3a20dec0a954c0449c9fbdb7f14bfb84f841d13c1977e7&"/>
 
-![image.png](attachment:a4f5025a-2771-40f3-8fd7-da250e400ec6:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095236997087242/3-3.png?ex=6871ec8a&is=68709b0a&hm=a22e255ce8dd399a9594bc6af6bc675a4ebe268b738e583278bd09a664caa3d4&"/>
 
-![image.png](attachment:1db52972-844a-4af5-8e7e-49660a094140:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095252234997780/3-4.png?ex=6871ec8e&is=68709b0e&hm=38cc6a7b1ebefb44c08718df4f9cbb87c763596c17737fe7ce8d92efb98fde87&"/>
 
 ## 4. FAQ 페이지
 
-![image.png](attachment:12ec2468-1a3f-4304-b3b1-986ce7fb44b8:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095265220821144/4-1.png?ex=6871ec91&is=68709b11&hm=4d783b633b0737a24d72df69d2d9f4f45ffd39c1466ac6486700d5cfadb07253&"/>
 
-![image.png](attachment:9ae0488d-c961-47fa-ae4f-6df69c85ce02:image.png)
+<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095278340603914/4-2.png?ex=6871ec94&is=68709b14&hm=542c59fdd566be7bb4a2c71a45eff7beacb0686e675a778f68b30c194979acf6&"/>
 
 # 한 줄 회고
 
