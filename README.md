@@ -9,7 +9,7 @@
 | 신승철 | 김주영 | 양송이 | 김수현 | 맹지수 |
 | --- | --- | --- | --- | --- |
 | 옐로 | 블루 | 레드 | 핑크 | 그린 |
-| <img src=https://github.com/user-attachments/assets/6b5dc0be-1185-4e62-9217-21903cf5f18a> | <img src=https://github.com/user-attachments/assets/2e0f6a76-8aaf-4d2c-bb09-9dd9ebe7fe2c> | <img src=https://github.com/user-attachments/assets/bde15f88-13a6-48a2-9564-9b8bac02114b> | <img src=https://github.com/user-attachments/assets/4ef9341c-3e0b-4980-8195-d3aeec930dfe> | <img src=https://github.com/user-attachments/assets/94222fba-384e-4b42-8713-7b4eabf3aa33> |
+| <img height=400 width=400 src=https://github.com/user-attachments/assets/6b5dc0be-1185-4e62-9217-21903cf5f18a> | <img height=400 width=400 src=https://github.com/user-attachments/assets/2e0f6a76-8aaf-4d2c-bb09-9dd9ebe7fe2c> | <img height=400 width=400 src=https://github.com/user-attachments/assets/bde15f88-13a6-48a2-9564-9b8bac02114b> | <img height=400 width=400 src=https://github.com/user-attachments/assets/4ef9341c-3e0b-4980-8195-d3aeec930dfe> | <img height=400 width=400 src=https://github.com/user-attachments/assets/94222fba-384e-4b42-8713-7b4eabf3aa33> |
 
 # 프로젝트 개요
 
