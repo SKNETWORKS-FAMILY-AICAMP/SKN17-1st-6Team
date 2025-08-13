@@ -109,37 +109,39 @@
 
 ## 1. 메인 페이지
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095146840522852/1-1.png?ex=6871ec75&is=68709af5&hm=53d7917702e594511671df4a112108fa875b2df525872538eef6636004bf2a5e&"/>
+<img width="555" height="388" alt="1-1" src="https://github.com/user-attachments/assets/d8382d21-6d92-4a01-bc4e-24744f127509" />
 
 <br/>
 
 ## 2. 차트 페이지
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095160065163296/2-1.png?ex=6871ec78&is=68709af8&hm=2a48f4e8cd30034a4675d9e1a239883bf053c132fe4e93e0b1e47a470c12372f&"/>
+<img width="569" height="374" alt="2-1" src="https://github.com/user-attachments/assets/432525ed-9d7d-49e2-a126-a64d6658279b" />
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095172467986503/2-2.png?ex=6871ec7b&is=68709afb&hm=9cf327845b48039eeca15f151e71ef0e6aa1ad9703b4c911a3d74e3da3a74606&"/>
+<img width="557" height="140" alt="2-2" src="https://github.com/user-attachments/assets/5cbacb87-433b-4512-b3b5-75995405e071" />
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095189698187354/2-3.png?ex=6871ec7f&is=68709aff&hm=c994499a4ba1ad9448153fe6ecabbf052666eba0734528ea9a0a53388cefa347&"/>
+<img width="554" height="386" alt="2-3" src="https://github.com/user-attachments/assets/c4d8892b-a9a6-4500-865e-337ab34e90cc" />
+
 
 <br/>
 
 ## 3. 순위 페이지
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095205883875348/3-1.png?ex=6871ec83&is=68709b03&hm=6b7db08edb5ec2229b85f86aa582544fcf6aa7bbdf675efee0f6d9399955b899&"/>
+<img width="557" height="430" alt="3-1" src="https://github.com/user-attachments/assets/bbc7ef77-e6db-49a8-8c59-7dafdbe68f90" />
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095220878639216/3-2.png?ex=6871ec87&is=68709b07&hm=d674e9f8452dcd635b3a20dec0a954c0449c9fbdb7f14bfb84f841d13c1977e7&"/>
+<img width="556" height="355" alt="3-2" src="https://github.com/user-attachments/assets/1e295331-8279-4e8e-8f10-2f53d7153bf0" />
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095236997087242/3-3.png?ex=6871ec8a&is=68709b0a&hm=a22e255ce8dd399a9594bc6af6bc675a4ebe268b738e583278bd09a664caa3d4&"/>
+<img width="557" height="375" alt="3-3" src="https://github.com/user-attachments/assets/4d57dccf-e09c-440c-b338-e722d5411a17" />
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095252234997780/3-4.png?ex=6871ec8e&is=68709b0e&hm=38cc6a7b1ebefb44c08718df4f9cbb87c763596c17737fe7ce8d92efb98fde87&"/>
+<img width="560" height="412" alt="3-4" src="https://github.com/user-attachments/assets/198fec35-6f2d-4570-a8b6-f4a36a4681ea" />
+
 
 <br/>
 
 ## 4. FAQ 페이지
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095265220821144/4-1.png?ex=6871ec91&is=68709b11&hm=4d783b633b0737a24d72df69d2d9f4f45ffd39c1466ac6486700d5cfadb07253&"/>
+<img width="551" height="368" alt="4-1" src="https://github.com/user-attachments/assets/8ed98bb6-08a4-4e57-b05b-b5b6771cdb3d" />
 
-<img src="https://cdn.discordapp.com/attachments/1390254555127877665/1393095278340603914/4-2.png?ex=6871ec94&is=68709b14&hm=542c59fdd566be7bb4a2c71a45eff7beacb0686e675a778f68b30c194979acf6&"/>
+<img width="557" height="365" alt="4-2" src="https://github.com/user-attachments/assets/f64e5779-1058-4f4f-81cb-8760836a9280" />
 
 <br />
 
